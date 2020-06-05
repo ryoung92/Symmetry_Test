@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\MultiFizzBuzz\\MultiFizzBuzz.csproj",
-      "projectName": "MultiFizzBuzz",
-      "projectPath": "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\MultiFizzBuzz\\MultiFizzBuzz.csproj",
+      "projectUniqueName": "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\MultiFizzBuzz\\PartOne.csproj",
+      "projectName": "PartOne",
+      "projectPath": "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\MultiFizzBuzz\\PartOne.csproj",
       "packagesPath": "C:\\Users\\Roberty\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\MultiFizzBuzz\\obj\\",
       "projectStyle": "PackageReference",

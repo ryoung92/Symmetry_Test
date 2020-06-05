@@ -1,0 +1,11 @@
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\bin\Debug\netcoreapp2.1\PartTwo.deps.json
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\bin\Debug\netcoreapp2.1\PartTwo.runtimeconfig.json
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\bin\Debug\netcoreapp2.1\PartTwo.runtimeconfig.dev.json
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\bin\Debug\netcoreapp2.1\PartTwo.dll
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\bin\Debug\netcoreapp2.1\PartTwo.pdb
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\obj\Debug\netcoreapp2.1\PartTwo.csprojAssemblyReference.cache
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\obj\Debug\netcoreapp2.1\PartTwo.csproj.CoreCompileInputs.cache
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\obj\Debug\netcoreapp2.1\PartTwo.AssemblyInfoInputs.cache
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\obj\Debug\netcoreapp2.1\PartTwo.AssemblyInfo.cs
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\obj\Debug\netcoreapp2.1\PartTwo.dll
+C:\repos\Symmetry_Test\MultiFizzBuzz\PartTwo\obj\Debug\netcoreapp2.1\PartTwo.pdb

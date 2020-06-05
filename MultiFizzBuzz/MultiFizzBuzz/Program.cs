@@ -1,13 +1,12 @@
-﻿
-using System;
+﻿using System;
 
-namespace MultiFizzBuzz
+namespace PartOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new PartOneProgram();
         }
     }
 }
