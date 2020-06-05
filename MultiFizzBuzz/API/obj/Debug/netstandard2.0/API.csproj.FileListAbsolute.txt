@@ -1,0 +1,9 @@
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\bin\Debug\netstandard2.0\API.deps.json
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\bin\Debug\netstandard2.0\API.dll
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\bin\Debug\netstandard2.0\API.pdb
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\obj\Debug\netstandard2.0\API.csprojAssemblyReference.cache
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\obj\Debug\netstandard2.0\API.csproj.CoreCompileInputs.cache
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\obj\Debug\netstandard2.0\API.AssemblyInfoInputs.cache
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\obj\Debug\netstandard2.0\API.AssemblyInfo.cs
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\obj\Debug\netstandard2.0\API.dll
+C:\repos\Symmetry_Test\MultiFizzBuzz\API\obj\Debug\netstandard2.0\API.pdb

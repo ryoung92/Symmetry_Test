@@ -7,7 +7,9 @@ C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\T
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\TestMultiFizzBuzz.dll
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\TestMultiFizzBuzz.pdb
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\PartOne.dll
+C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\PartTwo.dll
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\PartOne.pdb
+C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\PartTwo.pdb
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\obj\Debug\netcoreapp2.1\TestMultiFizzBuzz.csprojAssemblyReference.cache
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\obj\Debug\netcoreapp2.1\TestMultiFizzBuzz.csproj.CoreCompileInputs.cache
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\obj\Debug\netcoreapp2.1\TestMultiFizzBuzz.AssemblyInfoInputs.cache
@@ -15,3 +17,5 @@ C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\obj\Debug\netcoreapp2.1\T
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\obj\Debug\netcoreapp2.1\TestMultiFizzBuzz.csproj.CopyComplete
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\obj\Debug\netcoreapp2.1\TestMultiFizzBuzz.dll
 C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\obj\Debug\netcoreapp2.1\TestMultiFizzBuzz.pdb
+C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\API.dll
+C:\repos\Symmetry_Test\MultiFizzBuzz\TestMultiFizzBuzz\bin\Debug\netcoreapp2.1\API.pdb

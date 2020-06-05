@@ -6,7 +6,7 @@ namespace PartTwo
     {
         static void Main(string[] args)
         {
-            //new PartTwoProgram();
+            new PartTwoProgram();
         }
     }
 }

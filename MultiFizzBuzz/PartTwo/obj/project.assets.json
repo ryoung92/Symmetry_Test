@@ -207,6 +207,30 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "API/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.dll": {}
+        }
+      },
+      "PartOne/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "API": "1.0.0",
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/PartOne.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PartOne.dll": {}
+        }
       }
     }
   },
@@ -680,11 +704,23 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "API/1.0.0": {
+      "type": "project",
+      "path": "../API/API.csproj",
+      "msbuildProject": "../API/API.csproj"
+    },
+    "PartOne/1.0.0": {
+      "type": "project",
+      "path": "../PartOne/PartOne.csproj",
+      "msbuildProject": "../PartOne/PartOne.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "API >= 1.0.0",
+      "Microsoft.NETCore.App >= 2.1.0",
+      "PartOne >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -716,7 +752,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\API\\API.csproj": {
+              "projectPath": "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\API\\API.csproj"
+            },
+            "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\PartOne\\PartOne.csproj": {
+              "projectPath": "C:\\repos\\Symmetry_Test\\MultiFizzBuzz\\PartOne\\PartOne.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
