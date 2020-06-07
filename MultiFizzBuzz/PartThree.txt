@@ -1,0 +1,7 @@
+Part 3:
+Describe in a few sentences what you would change to add a hundred additional
+conditions.
+
+Making use of a generic class that can accept any input and return.
+This can have different types of operations and functions passed in with different return conditions
+no need to make multiple classes as they can just use the template to create new instances with unique condtions and returns 
