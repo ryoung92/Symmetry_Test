@@ -2,7 +2,10 @@
 
 fizzbuzz programed in c#
 
-type following commands  
+How to Run:  
+
+Navigate to directory of the makefile ./Symmetry_test/MultiFizzBuzz/  
+type following commands 
 
 make  
 
